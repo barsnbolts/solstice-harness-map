@@ -1,0 +1,1538 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1140" viewBox="0 0 1800 1140" aria-label="Complete E69 to Voodoo Pro V2 connector map"><defs><marker id="trace-arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7" fill="#007aff"/></marker></defs><title>All 248 OEM and Link cavities • Engineering draft R4</title>
+<rect x="0" y="0" width="1800" height="1140" rx="0" fill="#f5f5f7" stroke="none" stroke-width="1"/>
+<text x="65" y="38" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="30" font-weight="600">OEM harness</text>
+<text x="65" y="79" dominant-baseline="hanging" fill="#6e6e73" font-family="Arial,sans-serif" font-size="20" font-weight="400">GM reference faces · actual-car orientation unverified</text>
+<rect x="70" y="166" width="795" height="267" rx="26" fill="#d8dadd" stroke="none" stroke-width="1"/>
+<rect x="65" y="158" width="795" height="267" rx="26" fill="#2b2e32" stroke="#81878d" stroke-width="2"/>
+<rect x="90" y="183" width="745" height="217" rx="16" fill="#15181c" stroke="#697079" stroke-width="2"/>
+<rect x="407.5" y="145" width="110" height="29" rx="5" fill="#363b41" stroke="#81878d" stroke-width="2"/>
+<text x="70" y="117" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="23" font-weight="600">C1 · 96-way black</text>
+<rect x="1055" y="166" width="680" height="267" rx="26" fill="#d8dadd" stroke="none" stroke-width="1"/>
+<rect x="1050" y="158" width="680" height="267" rx="26" fill="#d1d3d4" stroke="#81878d" stroke-width="2"/>
+<rect x="1075" y="183" width="630" height="217" rx="16" fill="#34383d" stroke="#697079" stroke-width="2"/>
+<rect x="1335.0" y="145" width="110" height="29" rx="5" fill="#d1d3d4" stroke="#81878d" stroke-width="2"/>
+<text x="1055" y="117" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="23" font-weight="600">C2 · 58-way white</text>
+<text x="70" y="447" dominant-baseline="hanging" fill="#6e6e73" font-family="Arial,sans-serif" font-size="20" font-weight="400">Matched male E69 mates required · exact keying / header sourcing HOLD</text>
+<text x="65" y="700" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="30" font-weight="600">Voodoo Pro V2</text>
+<text x="65" y="741" dominant-baseline="hanging" fill="#6e6e73" font-family="Arial,sans-serif" font-size="20" font-weight="400">Connector side · looking into ECU headers · not to scale</text>
+<rect x="52" y="800" width="1696" height="278" rx="30" fill="#dedfe2" stroke="#8f969e" stroke-width="2"/>
+<rect x="64" y="811" width="1672" height="254" rx="24" fill="#f0f0f2" stroke="#b4b9c0" stroke-width="2"/>
+<circle cx="78" cy="835" r="5" fill="#b0b5bb" stroke="#80878f" stroke-width="1"/>
+<circle cx="78" cy="1044" r="5" fill="#b0b5bb" stroke="#80878f" stroke-width="1"/>
+<circle cx="1722" cy="835" r="5" fill="#b0b5bb" stroke="#80878f" stroke-width="1"/>
+<circle cx="1722" cy="1044" r="5" fill="#b0b5bb" stroke="#80878f" stroke-width="1"/>
+<rect x="118" y="833" width="420" height="212" rx="23" fill="#20252b" stroke="#6a717a" stroke-width="2"/>
+<rect x="132" y="847" width="392" height="186" rx="15" fill="#12171d" stroke="#4a525b" stroke-width="1"/>
+<rect x="303.0" y="837" width="50" height="14" rx="2" fill="#6a717a" stroke="none" stroke-width="1"/>
+<text x="318.0" y="780" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="25" font-weight="600">A</text>
+<rect x="591" y="833" width="420" height="212" rx="23" fill="#20252b" stroke="#6a717a" stroke-width="2"/>
+<rect x="605" y="847" width="392" height="186" rx="15" fill="#12171d" stroke="#4a525b" stroke-width="1"/>
+<rect x="776.0" y="837" width="50" height="14" rx="2" fill="#6a717a" stroke="none" stroke-width="1"/>
+<text x="791.0" y="780" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="25" font-weight="600">B</text>
+<rect x="1064" y="833" width="332" height="212" rx="23" fill="#20252b" stroke="#6a717a" stroke-width="2"/>
+<rect x="1078" y="847" width="304" height="186" rx="15" fill="#12171d" stroke="#4a525b" stroke-width="1"/>
+<rect x="1205.0" y="837" width="50" height="14" rx="2" fill="#6a717a" stroke="none" stroke-width="1"/>
+<text x="1220.0" y="780" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="25" font-weight="600">E</text>
+<rect x="1430" y="816" width="286" height="236" rx="18" fill="#e3e4e7" stroke="#a1a8af" stroke-width="1"/>
+<text x="1443" y="780" dominant-baseline="hanging" fill="#1d1d1f" font-family="Arial,sans-serif" font-size="21" font-weight="600">Communications</text>
+<circle cx="1478" cy="866" r="15" fill="#d2d5d9" stroke="#777f89" stroke-width="2"/>
+<circle cx="1478" cy="866" r="6" fill="#858c95" stroke="none" stroke-width="1"/>
+<text x="1454" y="893" dominant-baseline="hanging" fill="#525a63" font-family="Arial,sans-serif" font-size="17" font-weight="400">Wi-Fi</text>
+<circle cx="1670" cy="866" r="15" fill="#d2d5d9" stroke="#777f89" stroke-width="2"/>
+<circle cx="1670" cy="866" r="6" fill="#858c95" stroke="none" stroke-width="1"/>
+<text x="1646" y="893" dominant-baseline="hanging" fill="#525a63" font-family="Arial,sans-serif" font-size="17" font-weight="400">GPS</text>
+<rect x="1544" y="849" width="62" height="22" rx="11" fill="#f5f5f7" stroke="#717b85" stroke-width="2"/>
+<rect x="1553" y="856" width="44" height="8" rx="4" fill="#343b44" stroke="none" stroke-width="1"/>
+<text x="1544" y="886" dominant-baseline="hanging" fill="#525a63" font-family="Arial,sans-serif" font-size="17" font-weight="400">USB-C</text>
+<circle cx="1510" cy="962" r="32" fill="#f1f2f4" stroke="#717b85" stroke-width="2"/>
+<circle cx="1510" cy="962" r="24" fill="#d9dce0" stroke="#929ba5" stroke-width="1"/>
+<circle cx="1522.0" cy="962.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1518.4852813742386" cy="970.4852813742385" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1510.0" cy="974.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1501.5147186257614" cy="970.4852813742385" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1498.0" cy="962.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1501.5147186257614" cy="953.5147186257615" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1510.0" cy="950.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1518.4852813742386" cy="953.5147186257615" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<text x="1475" y="1009" dominant-baseline="hanging" fill="#525a63" font-family="Arial,sans-serif" font-size="17" font-weight="400">Ethernet</text>
+<circle cx="1637" cy="962" r="32" fill="#f1f2f4" stroke="#717b85" stroke-width="2"/>
+<circle cx="1637" cy="962" r="24" fill="#d9dce0" stroke="#929ba5" stroke-width="1"/>
+<circle cx="1649.0" cy="962.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1637.0" cy="974.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1625.0" cy="962.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<circle cx="1637.0" cy="950.0" r="2.5" fill="#4c555f" stroke="none" stroke-width="1"/>
+<text x="1602" y="1009" dominant-baseline="hanging" fill="#525a63" font-family="Arial,sans-serif" font-size="17" font-weight="400">CAN 1</text>
+<text x="65" y="543" dominant-baseline="hanging" fill="#8b9198" font-family="Arial,sans-serif" font-size="17" font-weight="600">NEW CIRCUITS / RESERVATIONS</text>
+<circle cx="435" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="470" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="505" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="540" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="575" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="610" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="645" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="680" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="715" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="750" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="785" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="820" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="855" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="890" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="925" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="960" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="995" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1030" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1065" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1100" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1135" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1170" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1205" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1240" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1275" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<circle cx="1310" cy="562" r="3" fill="#a9b4c1" stroke="none" stroke-width="1"/>
+<g class="route" data-net="A1" data-state="PROPOSED" style="color:#007aff">
+<path d="M435 562 C435 747 159 662 159 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A2" data-state="PROPOSED" style="color:#007aff">
+<path d="M470 562 C470 747 201 662 201 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A3" data-state="PROPOSED" style="color:#007aff">
+<path d="M505 562 C505 747 243 662 243 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A4" data-state="PROPOSED" style="color:#007aff">
+<path d="M540 562 C540 747 285 662 285 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A5" data-state="HOLD" style="color:#007aff">
+<path d="M1167 199 C1167 384 327 662 327 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A6" data-state="HOLD" style="color:#007aff">
+<path d="M1239 199 C1239 384 369 662 369 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A8" data-state="PROPOSED" style="color:#007aff">
+<path d="M416 255 C416 440 453 662 453 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A9" data-state="PROPOSED" style="color:#007aff">
+<path d="M292 199 C292 384 495 662 495 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A10" data-state="PROPOSED" style="color:#007aff">
+<path d="M323 311 C323 496 180 705 180 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A11" data-state="PROPOSED" style="color:#007aff">
+<path d="M292 367 C292 552 222 705 222 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A12" data-state="PROPOSED" style="color:#007aff">
+<path d="M323 367 C323 552 264 705 264 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A13" data-state="PROPOSED" style="color:#007aff">
+<path d="M292 311 C292 496 306 705 306 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A14" data-state="PROPOSED" style="color:#007aff">
+<path d="M633 367 C633 552 348 705 348 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A15" data-state="PROPOSED" style="color:#007aff">
+<path d="M385 367 C385 552 390 705 390 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A16" data-state="PROPOSED" style="color:#007aff">
+<path d="M509 367 C509 552 432 705 432 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A17" data-state="PROPOSED" style="color:#007aff">
+<path d="M478 255 C478 440 474 705 474 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A18" data-state="PROPOSED" style="color:#007aff">
+<path d="M571 199 C571 384 180 748 180 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A19" data-state="PROPOSED" style="color:#007aff">
+<path d="M633 199 C633 384 222 748 222 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A20" data-state="PROPOSED" style="color:#007aff">
+<path d="M137 199 C137 384 264 748 264 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A21" data-state="PROPOSED" style="color:#007aff">
+<path d="M106 199 C106 384 306 748 306 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A22" data-state="PROPOSED" style="color:#007aff">
+<path d="M1239 367 C1239 552 348 748 348 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A23" data-state="PROPOSED" style="color:#007aff">
+<path d="M1203 367 C1203 552 390 748 390 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A26" data-state="PROPOSED" style="color:#007aff">
+<path d="M1095 199 C1095 384 159 791 159 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A27" data-state="RESERVED" style="color:#007aff">
+<path d="M575 562 C575 747 201 791 201 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A28" data-state="PROPOSED" style="color:#007aff">
+<path d="M1527 199 C1527 384 243 791 243 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A29" data-state="PROPOSED" style="color:#007aff">
+<path d="M1419 367 C1419 552 285 791 285 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A30" data-state="PROPOSED" style="color:#007aff">
+<path d="M385 255 C385 440 327 791 327 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A31" data-state="RESERVED" style="color:#007aff">
+<path d="M610 562 C610 747 369 791 369 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="A33" data-state="PROPOSED" style="color:#007aff">
+<path d="M1347 311 C1347 496 453 791 453 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B1" data-state="RESERVED" style="color:#007aff">
+<path d="M645 562 C645 747 632 662 632 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B2" data-state="RESERVED" style="color:#007aff">
+<path d="M680 562 C680 747 674 662 674 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B3" data-state="RESERVED" style="color:#007aff">
+<path d="M715 562 C715 747 716 662 716 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B4" data-state="RESERVED" style="color:#007aff">
+<path d="M750 562 C750 747 758 662 758 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B6" data-state="RESERVED" style="color:#007aff">
+<path d="M785 562 C785 747 842 662 842 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B7" data-state="RESERVED" style="color:#007aff">
+<path d="M1383 199 C1383 384 884 662 884 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B8" data-state="HOLD" style="color:#007aff">
+<path d="M447 311 C447 496 926 662 926 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+<path d="M447 367 C447 552 926 662 926 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B9" data-state="HOLD" style="color:#007aff">
+<path d="M416 311 C416 496 968 662 968 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+<path d="M416 367 C416 552 968 662 968 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B10" data-state="RESERVED" style="color:#007aff">
+<path d="M261 311 C261 496 653 705 653 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B11" data-state="HOLD" style="color:#007aff">
+<path d="M1527 311 C1527 496 695 705 695 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B12" data-state="RESERVED" style="color:#007aff">
+<path d="M820 562 C820 747 737 705 737 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B13" data-state="HOLD" style="color:#007aff">
+<path d="M1347 367 C1347 552 779 705 779 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B15" data-state="PROPOSED" style="color:#007aff">
+<path d="M633 311 C633 496 863 705 863 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B16" data-state="RESERVED" style="color:#007aff">
+<path d="M447 255 C447 440 905 705 905 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B18" data-state="HOLD" style="color:#007aff">
+<path d="M819 199 C819 384 653 748 653 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B19" data-state="PROPOSED" style="color:#007aff">
+<path d="M602 199 C602 384 695 748 695 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B20" data-state="RESERVED" style="color:#007aff">
+<path d="M855 562 C855 747 737 748 737 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B21" data-state="PROPOSED" style="color:#007aff">
+<path d="M1131 311 C1131 496 779 748 779 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B24" data-state="RESERVED" style="color:#007aff">
+<path d="M890 562 C890 747 905 748 905 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B26" data-state="HOLD" style="color:#007aff">
+<path d="M819 255 C819 440 632 791 632 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B27" data-state="RESERVED" style="color:#007aff">
+<path d="M925 562 C925 747 674 791 674 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B28" data-state="RESERVED" style="color:#007aff">
+<path d="M960 562 C960 747 716 791 716 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B29" data-state="RESERVED" style="color:#007aff">
+<path d="M995 562 C995 747 758 791 758 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B30" data-state="RESERVED" style="color:#007aff">
+<path d="M1030 562 C1030 747 800 791 800 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B31" data-state="RESERVED" style="color:#007aff">
+<path d="M1065 562 C1065 747 842 791 842 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B32" data-state="HOLD" style="color:#007aff">
+<path d="M1203 311 C1203 496 884 791 884 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="B33" data-state="PROPOSED" style="color:#007aff">
+<path d="M602 367 C602 552 926 791 926 1001" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E5" data-state="HOLD" style="color:#007aff">
+<path d="M1203 255 C1203 440 1273 662 1273 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E6" data-state="HOLD" style="color:#007aff">
+<path d="M1203 199 C1203 384 1315 662 1315 872" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E8" data-state="RESERVED" style="color:#007aff">
+<path d="M261 199 C261 384 1126 705 1126 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E9" data-state="RESERVED" style="color:#007aff">
+<path d="M1095 367 C1095 552 1168 705 1168 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E11" data-state="RESERVED" style="color:#007aff">
+<path d="M1100 562 C1100 747 1252 705 1252 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E12" data-state="RESERVED" style="color:#007aff">
+<path d="M1419 255 C1419 440 1294 705 1294 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E13" data-state="RESERVED" style="color:#007aff">
+<path d="M1135 562 C1135 747 1336 705 1336 915" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E15" data-state="RESERVED" style="color:#007aff">
+<path d="M1170 562 C1170 747 1168 748 1168 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E16" data-state="RESERVED" style="color:#007aff">
+<path d="M1205 562 C1205 747 1210 748 1210 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E17" data-state="RESERVED" style="color:#007aff">
+<path d="M1240 562 C1240 747 1252 748 1252 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E18" data-state="RESERVED" style="color:#007aff">
+<path d="M1275 562 C1275 747 1294 748 1294 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="route" data-net="E19" data-state="RESERVED" style="color:#007aff">
+<path d="M1310 562 C1310 747 1336 748 1336 958" fill="none" stroke="#ccd3dc" stroke-width="1"/>
+</g>
+<g class="pin" data-pin="C1-1" tabindex="0" role="button" aria-label="C1-1: Camshaft Phaser Exhaust Solenoid Control">
+<rect x="91" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="97" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="101" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">1</text>
+</g>
+<g class="pin" data-pin="C1-2" tabindex="0" role="button" aria-label="C1-2: Camshaft Phaser Intake Soleniod Control">
+<rect x="122" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="128" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="132" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2</text>
+</g>
+<g class="pin" data-pin="C1-3" tabindex="0" role="button" aria-label="C1-3: Not Used">
+<rect x="153" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="159" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="163" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">3</text>
+</g>
+<g class="pin" data-pin="C1-4" tabindex="0" role="button" aria-label="C1-4: Not Used">
+<rect x="184" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="190" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="194" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">4</text>
+</g>
+<g class="pin" data-pin="C1-5" tabindex="0" role="button" aria-label="C1-5: High Pressure Fuel Pump Actuator High Control">
+<rect x="215" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="221" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="225" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">5</text>
+</g>
+<g class="pin" data-pin="C1-6" tabindex="0" role="button" aria-label="C1-6: EVAP Canister Purge Solenoid Control">
+<rect x="246" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="252" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="256" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">6</text>
+</g>
+<g class="pin" data-pin="C1-7" tabindex="0" role="button" aria-label="C1-7: Camshaft Position Intake Sensor Signal">
+<rect x="277" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="283" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="287" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">7</text>
+</g>
+<g class="pin" data-pin="C1-8" tabindex="0" role="button" aria-label="C1-8: Not Used">
+<rect x="308" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="314" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="318" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">8</text>
+</g>
+<g class="pin" data-pin="C1-9" tabindex="0" role="button" aria-label="C1-9: Not Used">
+<rect x="339" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="345" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="349" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">9</text>
+</g>
+<g class="pin" data-pin="C1-10" tabindex="0" role="button" aria-label="C1-10: Generator Turn On Signal">
+<rect x="370" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="376" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="374" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">10</text>
+</g>
+<g class="pin" data-pin="C1-11" tabindex="0" role="button" aria-label="C1-11: Not Used">
+<rect x="401" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="407" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="405" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">11</text>
+</g>
+<g class="pin" data-pin="C1-12" tabindex="0" role="button" aria-label="C1-12: Not Used">
+<rect x="432" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="438" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="436" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">12</text>
+</g>
+<g class="pin" data-pin="C1-13" tabindex="0" role="button" aria-label="C1-13: Low Reference">
+<rect x="463" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="469" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="467" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">13</text>
+</g>
+<g class="pin" data-pin="C1-14" tabindex="0" role="button" aria-label="C1-14: Not Used">
+<rect x="494" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="500" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="498" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">14</text>
+</g>
+<g class="pin" data-pin="C1-15" tabindex="0" role="button" aria-label="C1-15: 5-Volt Reference 2">
+<rect x="525" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="531" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="529" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">15</text>
+</g>
+<g class="pin" data-pin="C1-16" tabindex="0" role="button" aria-label="C1-16: Turbo Bypass Valve Control">
+<rect x="556" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="562" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="560" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">16</text>
+</g>
+<g class="pin" data-pin="C1-17" tabindex="0" role="button" aria-label="C1-17: Oil Pressure Switch Signal">
+<rect x="587" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="593" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="591" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">17</text>
+</g>
+<g class="pin" data-pin="C1-18" tabindex="0" role="button" aria-label="C1-18: Wastegate Solenoid Control">
+<rect x="618" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="624" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="622" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">18</text>
+</g>
+<g class="pin" data-pin="C1-19" tabindex="0" role="button" aria-label="C1-19: Not Used">
+<rect x="649" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="655" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="653" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">19</text>
+</g>
+<g class="pin" data-pin="C1-20" tabindex="0" role="button" aria-label="C1-20: Not Used">
+<rect x="680" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="686" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="684" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">20</text>
+</g>
+<g class="pin" data-pin="C1-21" tabindex="0" role="button" aria-label="C1-21: Not Used">
+<rect x="711" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="717" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="715" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">21</text>
+</g>
+<g class="pin" data-pin="C1-22" tabindex="0" role="button" aria-label="C1-22: Not Used">
+<rect x="742" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="748" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="746" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">22</text>
+</g>
+<g class="pin" data-pin="C1-23" tabindex="0" role="button" aria-label="C1-23: Not Used">
+<rect x="773" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="779" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="777" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">23</text>
+</g>
+<g class="pin" data-pin="C1-24" tabindex="0" role="button" aria-label="C1-24: TAC Motor Control - 1">
+<rect x="804" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="810" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="808" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">24</text>
+</g>
+<g class="pin" data-pin="C1-25" tabindex="0" role="button" aria-label="C1-25: Not Used">
+<rect x="91" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="97" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="95" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">25</text>
+</g>
+<g class="pin" data-pin="C1-26" tabindex="0" role="button" aria-label="C1-26: Direct Fuel Injector (DFI) High Voltage Control Cylinder 4">
+<rect x="122" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="128" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="126" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">26</text>
+</g>
+<g class="pin" data-pin="C1-27" tabindex="0" role="button" aria-label="C1-27: Direct Fuel Injector (DFI) High Voltage Supply Cylinder 4">
+<rect x="153" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="159" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="157" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">27</text>
+</g>
+<g class="pin" data-pin="C1-28" tabindex="0" role="button" aria-label="C1-28: Direct Fuel Injector (DFI) High Voltage Control Cylinder 2">
+<rect x="184" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="190" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="188" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">28</text>
+</g>
+<g class="pin" data-pin="C1-29" tabindex="0" role="button" aria-label="C1-29: Direct Fuel Injector (DFI) High Voltage Supply Cylinder 2">
+<rect x="215" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="221" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="219" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">29</text>
+</g>
+<g class="pin" data-pin="C1-30" tabindex="0" role="button" aria-label="C1-30: Generator Field Duty Cycle Signal">
+<rect x="246" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="252" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="250" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">30</text>
+</g>
+<g class="pin" data-pin="C1-31" tabindex="0" role="button" aria-label="C1-31: Not Used">
+<rect x="277" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="283" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="281" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">31</text>
+</g>
+<g class="pin" data-pin="C1-32" tabindex="0" role="button" aria-label="C1-32: Not Used">
+<rect x="308" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="314" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="312" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">32</text>
+</g>
+<g class="pin" data-pin="C1-33" tabindex="0" role="button" aria-label="C1-33: Not Used">
+<rect x="339" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="345" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="343" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">33</text>
+</g>
+<g class="pin" data-pin="C1-34" tabindex="0" role="button" aria-label="C1-34: Camshaft Position Exhaust Sensor Signal">
+<rect x="370" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="376" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="374" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">34</text>
+</g>
+<g class="pin" data-pin="C1-35" tabindex="0" role="button" aria-label="C1-35: CKP Sensor Signal">
+<rect x="401" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="407" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="405" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">35</text>
+</g>
+<g class="pin" data-pin="C1-36" tabindex="0" role="button" aria-label="C1-36: FRP Sensor Signal">
+<rect x="432" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="438" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="436" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">36</text>
+</g>
+<g class="pin" data-pin="C1-37" tabindex="0" role="button" aria-label="C1-37: MAP Sensor Signal">
+<rect x="463" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="469" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="467" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">37</text>
+</g>
+<g class="pin" data-pin="C1-38" tabindex="0" role="button" aria-label="C1-38: 5-Volt Reference 1">
+<rect x="494" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="500" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="498" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">38</text>
+</g>
+<g class="pin" data-pin="C1-39" tabindex="0" role="button" aria-label="C1-39: 5-Volt Reference 3">
+<rect x="525" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="531" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="529" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">39</text>
+</g>
+<g class="pin" data-pin="C1-40" tabindex="0" role="button" aria-label="C1-40: Not Used">
+<rect x="556" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="562" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="560" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">40</text>
+</g>
+<g class="pin" data-pin="C1-41" tabindex="0" role="button" aria-label="C1-41: Low Reference">
+<rect x="587" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="593" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="591" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">41</text>
+</g>
+<g class="pin" data-pin="C1-42" tabindex="0" role="button" aria-label="C1-42: Low Reference">
+<rect x="618" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="624" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="622" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">42</text>
+</g>
+<g class="pin" data-pin="C1-43" tabindex="0" role="button" aria-label="C1-43: Not Used">
+<rect x="649" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="655" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="653" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">43</text>
+</g>
+<g class="pin" data-pin="C1-44" tabindex="0" role="button" aria-label="C1-44: Low Reference">
+<rect x="680" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="686" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="684" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">44</text>
+</g>
+<g class="pin" data-pin="C1-45" tabindex="0" role="button" aria-label="C1-45: 5-Volt Reference 3">
+<rect x="711" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="717" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="715" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">45</text>
+</g>
+<g class="pin" data-pin="C1-46" tabindex="0" role="button" aria-label="C1-46: Low Reference">
+<rect x="742" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="748" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="746" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">46</text>
+</g>
+<g class="pin" data-pin="C1-47" tabindex="0" role="button" aria-label="C1-47: Not Used">
+<rect x="773" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="779" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="777" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">47</text>
+</g>
+<g class="pin" data-pin="C1-48" tabindex="0" role="button" aria-label="C1-48: TAC Motor Control - 2">
+<rect x="804" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="810" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="808" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">48</text>
+</g>
+<g class="pin" data-pin="C1-49" tabindex="0" role="button" aria-label="C1-49: Not Used">
+<rect x="91" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="97" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="95" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">49</text>
+</g>
+<g class="pin" data-pin="C1-50" tabindex="0" role="button" aria-label="C1-50: Not Used">
+<rect x="122" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="128" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="126" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">50</text>
+</g>
+<g class="pin" data-pin="C1-51" tabindex="0" role="button" aria-label="C1-51: Direct Fuel Injector (DFI) High Voltage Control Cylinder 1">
+<rect x="153" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="159" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="157" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">51</text>
+</g>
+<g class="pin" data-pin="C1-52" tabindex="0" role="button" aria-label="C1-52: Direct Fuel Injector (DFI) High Voltage Control Cylinder 3">
+<rect x="184" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="190" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="188" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">52</text>
+</g>
+<g class="pin" data-pin="C1-53" tabindex="0" role="button" aria-label="C1-53: Direct Fuel Injector (DFI) High Voltage Supply Cylinder 3">
+<rect x="215" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="221" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="219" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">53</text>
+</g>
+<g class="pin" data-pin="C1-54" tabindex="0" role="button" aria-label="C1-54: MIL Control">
+<rect x="246" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="252" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="250" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">54</text>
+</g>
+<g class="pin" data-pin="C1-55" tabindex="0" role="button" aria-label="C1-55: IC 1 Control">
+<rect x="277" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="283" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="281" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">55</text>
+</g>
+<g class="pin" data-pin="C1-56" tabindex="0" role="button" aria-label="C1-56: IC 4 Control">
+<rect x="308" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="314" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="312" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">56</text>
+</g>
+<g class="pin" data-pin="C1-57" tabindex="0" role="button" aria-label="C1-57: Not Used">
+<rect x="339" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="345" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="343" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">57</text>
+</g>
+<g class="pin" data-pin="C1-58" tabindex="0" role="button" aria-label="C1-58: Not Used">
+<rect x="370" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="376" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="374" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">58</text>
+</g>
+<g class="pin" data-pin="C1-59" tabindex="0" role="button" aria-label="C1-59: KS 1 Signal">
+<rect x="401" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="407" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="405" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">59</text>
+</g>
+<g class="pin" data-pin="C1-60" tabindex="0" role="button" aria-label="C1-60: KS 2 Signal">
+<rect x="432" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="438" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="436" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">60</text>
+</g>
+<g class="pin" data-pin="C1-61" tabindex="0" role="button" aria-label="C1-61: Not Used">
+<rect x="463" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="469" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="467" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">61</text>
+</g>
+<g class="pin" data-pin="C1-62" tabindex="0" role="button" aria-label="C1-62: Not Used">
+<rect x="494" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="500" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="498" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">62</text>
+</g>
+<g class="pin" data-pin="C1-63" tabindex="0" role="button" aria-label="C1-63: Not Used">
+<rect x="525" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="531" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="529" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">63</text>
+</g>
+<g class="pin" data-pin="C1-64" tabindex="0" role="button" aria-label="C1-64: Low Reference">
+<rect x="556" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="562" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="560" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">64</text>
+</g>
+<g class="pin" data-pin="C1-65" tabindex="0" role="button" aria-label="C1-65: Not Used">
+<rect x="587" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="593" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="591" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">65</text>
+</g>
+<g class="pin" data-pin="C1-66" tabindex="0" role="button" aria-label="C1-66: Pre-Throttle Air Temp and Press (TMAP) Air Pressure Signal">
+<rect x="618" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="624" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="622" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">66</text>
+</g>
+<g class="pin" data-pin="C1-67" tabindex="0" role="button" aria-label="C1-67: Heated Oxygen Sensor Low Signal Sensor 1">
+<rect x="649" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="655" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="653" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">67</text>
+</g>
+<g class="pin" data-pin="C1-68" tabindex="0" role="button" aria-label="C1-68: Heated Oxygen Sensor Pump Current Sensor 1">
+<rect x="680" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="686" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="684" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">68</text>
+</g>
+<g class="pin" data-pin="C1-69" tabindex="0" role="button" aria-label="C1-69: Not Used">
+<rect x="711" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="717" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="715" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">69</text>
+</g>
+<g class="pin" data-pin="C1-70" tabindex="0" role="button" aria-label="C1-70: Not Used">
+<rect x="742" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="748" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="746" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">70</text>
+</g>
+<g class="pin" data-pin="C1-71" tabindex="0" role="button" aria-label="C1-71: Not Used">
+<rect x="773" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="779" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="777" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">71</text>
+</g>
+<g class="pin" data-pin="C1-72" tabindex="0" role="button" aria-label="C1-72: Not Used">
+<rect x="804" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="810" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="808" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">72</text>
+</g>
+<g class="pin" data-pin="C1-73" tabindex="0" role="button" aria-label="C1-73: High Pressure Fuel Pump Actuator Low Control">
+<rect x="91" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="97" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="95" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">73</text>
+</g>
+<g class="pin" data-pin="C1-74" tabindex="0" role="button" aria-label="C1-74: Not Used">
+<rect x="122" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="128" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="126" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">74</text>
+</g>
+<g class="pin" data-pin="C1-75" tabindex="0" role="button" aria-label="C1-75: Direct Fuel Injector (DFI) High Voltage Supply Cylinder 1">
+<rect x="153" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="159" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="157" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">75</text>
+</g>
+<g class="pin" data-pin="C1-76" tabindex="0" role="button" aria-label="C1-76: Not Used">
+<rect x="184" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="190" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="188" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">76</text>
+</g>
+<g class="pin" data-pin="C1-77" tabindex="0" role="button" aria-label="C1-77: Not Used">
+<rect x="215" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="221" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="219" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">77</text>
+</g>
+<g class="pin" data-pin="C1-78" tabindex="0" role="button" aria-label="C1-78: Low Reference">
+<rect x="246" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="252" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="250" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">78</text>
+</g>
+<g class="pin" data-pin="C1-79" tabindex="0" role="button" aria-label="C1-79: IC 3 Control">
+<rect x="277" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="283" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="281" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">79</text>
+</g>
+<g class="pin" data-pin="C1-80" tabindex="0" role="button" aria-label="C1-80: IC 2 Control">
+<rect x="308" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="314" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="312" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">80</text>
+</g>
+<g class="pin" data-pin="C1-81" tabindex="0" role="button" aria-label="C1-81: Not Used">
+<rect x="339" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="345" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="343" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">81</text>
+</g>
+<g class="pin" data-pin="C1-82" tabindex="0" role="button" aria-label="C1-82: ECT Sensor Signal">
+<rect x="370" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="376" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="374" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">82</text>
+</g>
+<g class="pin" data-pin="C1-83" tabindex="0" role="button" aria-label="C1-83: KS 1 Signal">
+<rect x="401" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="407" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="405" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">83</text>
+</g>
+<g class="pin" data-pin="C1-84" tabindex="0" role="button" aria-label="C1-84: KS 2 Signal">
+<rect x="432" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="438" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="436" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">84</text>
+</g>
+<g class="pin" data-pin="C1-85" tabindex="0" role="button" aria-label="C1-85: Not Used">
+<rect x="463" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="469" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="467" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">85</text>
+</g>
+<g class="pin" data-pin="C1-86" tabindex="0" role="button" aria-label="C1-86: Pre-Throttle Air Temp and Press (TMAP) Temperature Signal">
+<rect x="494" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="500" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="498" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">86</text>
+</g>
+<g class="pin" data-pin="C1-87" tabindex="0" role="button" aria-label="C1-87: Not Used">
+<rect x="525" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="531" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="529" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">87</text>
+</g>
+<g class="pin" data-pin="C1-88" tabindex="0" role="button" aria-label="C1-88: Low Reference">
+<rect x="556" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="562" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="560" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">88</text>
+</g>
+<g class="pin" data-pin="C1-89" tabindex="0" role="button" aria-label="C1-89: TP Sensor 2 Signal">
+<rect x="587" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="593" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="591" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">89</text>
+</g>
+<g class="pin" data-pin="C1-90" tabindex="0" role="button" aria-label="C1-90: TP Sensor 1 Signal">
+<rect x="618" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="624" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="622" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">90</text>
+</g>
+<g class="pin" data-pin="C1-91" tabindex="0" role="button" aria-label="C1-91: Heated Oxygen Sensor Input Pump Current Sensor 1">
+<rect x="649" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="655" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="653" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">91</text>
+</g>
+<g class="pin" data-pin="C1-92" tabindex="0" role="button" aria-label="C1-92: Heated Oxygen Sensor High Signal Sensor 1">
+<rect x="680" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="686" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="684" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">92</text>
+</g>
+<g class="pin" data-pin="C1-93" tabindex="0" role="button" aria-label="C1-93: Not Used">
+<rect x="711" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="717" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="715" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">93</text>
+</g>
+<g class="pin" data-pin="C1-94" tabindex="0" role="button" aria-label="C1-94: Not Used">
+<rect x="742" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="748" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="746" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">94</text>
+</g>
+<g class="pin" data-pin="C1-95" tabindex="0" role="button" aria-label="C1-95: 5-Volt Reference 1">
+<rect x="773" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="779" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="777" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">95</text>
+</g>
+<g class="pin" data-pin="C1-96" tabindex="0" role="button" aria-label="C1-96: Heated Oxygen Sensor Heater Low Control Sensor 1">
+<rect x="804" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="810" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="808" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">96</text>
+</g>
+<g class="pin" data-pin="C2-58" tabindex="0" role="button" aria-label="C2-58: Powertrain Relay Coil Control">
+<rect x="1080" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1086" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1084" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">58</text>
+</g>
+<g class="pin" data-pin="C2-57" tabindex="0" role="button" aria-label="C2-57: Not Used">
+<rect x="1116" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1122" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1120" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">57</text>
+</g>
+<g class="pin" data-pin="C2-56" tabindex="0" role="button" aria-label="C2-56: Battery Positive Voltage">
+<rect x="1152" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1158" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1156" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">56</text>
+</g>
+<g class="pin" data-pin="C2-55" tabindex="0" role="button" aria-label="C2-55: High Speed GMLAN Serial Data BUS (-)">
+<rect x="1188" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1194" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1192" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">55</text>
+</g>
+<g class="pin" data-pin="C2-54" tabindex="0" role="button" aria-label="C2-54: Ignition 1 Voltage">
+<rect x="1224" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1230" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1228" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">54</text>
+</g>
+<g class="pin" data-pin="C2-53" tabindex="0" role="button" aria-label="C2-53: OSS High Signal (MA5)">
+<rect x="1260" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1266" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1264" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">53</text>
+</g>
+<g class="pin" data-pin="C2-52" tabindex="0" role="button" aria-label="C2-52: Stop Lamp Supply Voltage (M82)">
+<rect x="1296" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1302" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1300" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">52</text>
+</g>
+<g class="pin" data-pin="C2-51" tabindex="0" role="button" aria-label="C2-51: Not Used">
+<rect x="1332" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1338" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1336" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">51</text>
+</g>
+<g class="pin" data-pin="C2-50" tabindex="0" role="button" aria-label="C2-50: Induction Air Temperature Sensor Signal">
+<rect x="1368" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1374" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1372" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">50</text>
+</g>
+<g class="pin" data-pin="C2-49" tabindex="0" role="button" aria-label="C2-49: 5-Volt Reference 2">
+<rect x="1404" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1410" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1408" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">49</text>
+</g>
+<g class="pin" data-pin="C2-48" tabindex="0" role="button" aria-label="C2-48: 5-Volt Reference 3">
+<rect x="1440" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1446" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1444" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">48</text>
+</g>
+<g class="pin" data-pin="C2-47" tabindex="0" role="button" aria-label="C2-47: Low Reference">
+<rect x="1476" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1482" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1480" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">47</text>
+</g>
+<g class="pin" data-pin="C2-46" tabindex="0" role="button" aria-label="C2-46: Cooling Fan Speed Control">
+<rect x="1512" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1518" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1516" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">46</text>
+</g>
+<g class="pin" data-pin="C2-45" tabindex="0" role="button" aria-label="C2-45: Not Used">
+<rect x="1080" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1086" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1084" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">45</text>
+</g>
+<g class="pin" data-pin="C2-44" tabindex="0" role="button" aria-label="C2-44: A/C Compressor Clutch Relay Control (C60)">
+<rect x="1116" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1122" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1120" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">44</text>
+</g>
+<g class="pin" data-pin="C2-43" tabindex="0" role="button" aria-label="C2-43: Not Used">
+<rect x="1152" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1158" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1156" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">43</text>
+</g>
+<g class="pin" data-pin="C2-42" tabindex="0" role="button" aria-label="C2-42: High Speed GMLAN Serial Data Bus (+)">
+<rect x="1188" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1194" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1192" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">42</text>
+</g>
+<g class="pin" data-pin="C2-41" tabindex="0" role="button" aria-label="C2-41: Accessory Voltage">
+<rect x="1224" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1230" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1228" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">41</text>
+</g>
+<g class="pin" data-pin="C2-40" tabindex="0" role="button" aria-label="C2-40: OSS Low Signal (MA5)">
+<rect x="1260" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1266" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1264" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">40</text>
+</g>
+<g class="pin" data-pin="C2-39" tabindex="0" role="button" aria-label="C2-39: A/C Refrigerant Pressure Sensor Signal (C60)">
+<rect x="1296" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1302" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1300" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">39</text>
+</g>
+<g class="pin" data-pin="C2-38" tabindex="0" role="button" aria-label="C2-38: Heated Oxygen Sensor High Signal Sensor 2">
+<rect x="1332" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1338" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1336" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">38</text>
+</g>
+<g class="pin" data-pin="C2-37" tabindex="0" role="button" aria-label="C2-37: Not Used">
+<rect x="1368" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1374" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1372" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">37</text>
+</g>
+<g class="pin" data-pin="C2-36" tabindex="0" role="button" aria-label="C2-36: Fuel Level Sensor Signal">
+<rect x="1404" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1410" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1408" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">36</text>
+</g>
+<g class="pin" data-pin="C2-35" tabindex="0" role="button" aria-label="C2-35: 5-Volt Reference 3 (C60)">
+<rect x="1440" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1446" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1444" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">35</text>
+</g>
+<g class="pin" data-pin="C2-34" tabindex="0" role="button" aria-label="C2-34: Low Reference">
+<rect x="1476" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1482" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1480" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">34</text>
+</g>
+<g class="pin" data-pin="C2-33" tabindex="0" role="button" aria-label="C2-33: Not Used">
+<rect x="1512" y="238" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1518" y="247" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1516" y="268" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">33</text>
+</g>
+<g class="pin" data-pin="C2-32" tabindex="0" role="button" aria-label="C2-32: Not Used">
+<rect x="1080" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1086" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1084" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">32</text>
+</g>
+<g class="pin" data-pin="C2-31" tabindex="0" role="button" aria-label="C2-31: Clutch Start Neutral Start Signal (MA5)">
+<rect x="1116" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1122" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1120" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">31</text>
+</g>
+<g class="pin" data-pin="C2-30" tabindex="0" role="button" aria-label="C2-30: Not Used">
+<rect x="1152" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1158" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1156" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">30</text>
+</g>
+<g class="pin" data-pin="C2-29" tabindex="0" role="button" aria-label="C2-29: Brake Booster Vacuum Sensor Signal">
+<rect x="1188" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1194" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1192" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">29</text>
+</g>
+<g class="pin" data-pin="C2-28" tabindex="0" role="button" aria-label="C2-28: Not Used">
+<rect x="1224" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1230" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1228" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">28</text>
+</g>
+<g class="pin" data-pin="C2-27" tabindex="0" role="button" aria-label="C2-27: Fuel Tank Pressure Sensor Signal">
+<rect x="1260" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1266" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1264" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">27</text>
+</g>
+<g class="pin" data-pin="C2-26" tabindex="0" role="button" aria-label="C2-26: Not Used">
+<rect x="1296" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1302" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1300" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">26</text>
+</g>
+<g class="pin" data-pin="C2-25" tabindex="0" role="button" aria-label="C2-25: APP Sensor 2 Signal">
+<rect x="1332" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1338" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1336" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">25</text>
+</g>
+<g class="pin" data-pin="C2-24" tabindex="0" role="button" aria-label="C2-24: Not Used">
+<rect x="1368" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1374" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1372" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">24</text>
+</g>
+<g class="pin" data-pin="C2-23" tabindex="0" role="button" aria-label="C2-23: Heated Oxygen Sensor Low Signal Sensor 2">
+<rect x="1404" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1410" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1408" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">23</text>
+</g>
+<g class="pin" data-pin="C2-22" tabindex="0" role="button" aria-label="C2-22: Low Reference">
+<rect x="1440" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1446" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1444" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">22</text>
+</g>
+<g class="pin" data-pin="C2-21" tabindex="0" role="button" aria-label="C2-21: Not Used">
+<rect x="1476" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1482" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1480" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">21</text>
+</g>
+<g class="pin" data-pin="C2-20" tabindex="0" role="button" aria-label="C2-20: Vacuum Assist Pump Relay Coil Control">
+<rect x="1512" y="294" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1518" y="303" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1516" y="324" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">20</text>
+</g>
+<g class="pin" data-pin="C2-19" tabindex="0" role="button" aria-label="C2-19: EVAP Canister Vent Solenoid Control">
+<rect x="1080" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1086" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1084" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">19</text>
+</g>
+<g class="pin" data-pin="C2-18" tabindex="0" role="button" aria-label="C2-18: Backup Lamp Supply Voltage (M82)">
+<rect x="1116" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1122" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1120" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">18</text>
+</g>
+<g class="pin" data-pin="C2-17" tabindex="0" role="button" aria-label="C2-17: Transmission Park/Neutral Signal (M82)">
+<rect x="1152" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1158" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1156" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">17</text>
+</g>
+<g class="pin" data-pin="C2-16" tabindex="0" role="button" aria-label="C2-16: CPP Switch Signal (MA5)">
+<rect x="1188" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1194" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1192" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">16</text>
+</g>
+<g class="pin" data-pin="C2-15" tabindex="0" role="button" aria-label="C2-15: APP Sensor 1 Signal">
+<rect x="1224" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1230" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1228" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">15</text>
+</g>
+<g class="pin" data-pin="C2-14" tabindex="0" role="button" aria-label="C2-14: 5-Volt Reference 1">
+<rect x="1260" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1266" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1264" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">14</text>
+</g>
+<g class="pin" data-pin="C2-13" tabindex="0" role="button" aria-label="C2-13: MAF Sensor Signal">
+<rect x="1296" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1302" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1300" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">13</text>
+</g>
+<g class="pin" data-pin="C2-12" tabindex="0" role="button" aria-label="C2-12: Starter Relay Coil Control">
+<rect x="1332" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1338" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1336" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">12</text>
+</g>
+<g class="pin" data-pin="C2-11" tabindex="0" role="button" aria-label="C2-11: A/C Refrigerant Pressure Sensor Low Reference (C60)">
+<rect x="1368" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1374" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1372" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">11</text>
+</g>
+<g class="pin" data-pin="C2-10" tabindex="0" role="button" aria-label="C2-10: Fuel Pump Relay Control">
+<rect x="1404" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1410" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1408" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">10</text>
+</g>
+<g class="pin" data-pin="C2-9" tabindex="0" role="button" aria-label="C2-9: Low Reference">
+<rect x="1440" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1446" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1450" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">9</text>
+</g>
+<g class="pin" data-pin="C2-8" tabindex="0" role="button" aria-label="C2-8: Not Used">
+<rect x="1476" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1482" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1486" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">8</text>
+</g>
+<g class="pin" data-pin="C2-7" tabindex="0" role="button" aria-label="C2-7: Heated Oxygen Sensor Heater Low Control Sensor 2">
+<rect x="1512" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1518" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1522" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">7</text>
+</g>
+<g class="pin" data-pin="C2-6" tabindex="0" role="button" aria-label="C2-6: Ignition 1 Voltage">
+<rect x="1575" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1581" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1585" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">6</text>
+</g>
+<g class="pin" data-pin="C2-5" tabindex="0" role="button" aria-label="C2-5: Ignition 1 Voltage">
+<rect x="1645" y="182" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1651" y="191" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1655" y="212" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">5</text>
+</g>
+<g class="pin" data-pin="C2-4" tabindex="0" role="button" aria-label="C2-4: Ground">
+<rect x="1575" y="266" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1581" y="275" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1585" y="296" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">4</text>
+</g>
+<g class="pin" data-pin="C2-3" tabindex="0" role="button" aria-label="C2-3: Ignition 1 Voltage">
+<rect x="1645" y="266" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1651" y="275" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1655" y="296" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">3</text>
+</g>
+<g class="pin" data-pin="C2-2" tabindex="0" role="button" aria-label="C2-2: Ground">
+<rect x="1575" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1581" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1585" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2</text>
+</g>
+<g class="pin" data-pin="C2-1" tabindex="0" role="button" aria-label="C2-1: Ground">
+<rect x="1645" y="350" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<rect x="1651" y="359" width="18" height="16" rx="3" fill="#080b0f" stroke="#83919e" stroke-width="1"/>
+<text x="1655" y="380" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">1</text>
+</g>
+<g class="pin" data-pin="A1" tabindex="0" role="button" aria-label="A1: NEW PI cyl 4">
+<rect x="144" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="159" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="154" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">1</text>
+</g>
+<g class="pin" data-pin="A2" tabindex="0" role="button" aria-label="A2: NEW PI cyl 3">
+<rect x="186" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="201" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="196" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2</text>
+</g>
+<g class="pin" data-pin="A3" tabindex="0" role="button" aria-label="A3: NEW PI cyl 2">
+<rect x="228" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="243" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="238" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">3</text>
+</g>
+<g class="pin" data-pin="A4" tabindex="0" role="button" aria-label="A4: NEW PI cyl 1">
+<rect x="270" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="285" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="280" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">4</text>
+</g>
+<g class="pin" data-pin="A5" tabindex="0" role="button" aria-label="A5: ECU main supply">
+<rect x="312" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="327" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="322" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">5</text>
+</g>
+<g class="pin" data-pin="A6" tabindex="0" role="button" aria-label="A6: Ignition switch">
+<rect x="354" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="369" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="364" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">6</text>
+</g>
+<g class="pin" data-pin="A7" tabindex="0" role="button" aria-label="A7: Trigger shield drain">
+<rect x="396" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="411" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="406" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">7</text>
+</g>
+<g class="pin" data-pin="A8" tabindex="0" role="button" aria-label="A8: Crank signal">
+<rect x="438" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="453" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="448" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">8</text>
+</g>
+<g class="pin" data-pin="A9" tabindex="0" role="button" aria-label="A9: Intake cam">
+<rect x="480" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="495" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="490" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">9</text>
+</g>
+<g class="pin" data-pin="A10" tabindex="0" role="button" aria-label="A10: Coil cyl 4">
+<rect x="165" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="180" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="169" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">10</text>
+</g>
+<g class="pin" data-pin="A11" tabindex="0" role="button" aria-label="A11: Coil cyl 3">
+<rect x="207" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="222" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="211" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">11</text>
+</g>
+<g class="pin" data-pin="A12" tabindex="0" role="button" aria-label="A12: Coil cyl 2">
+<rect x="249" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="264" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="253" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">12</text>
+</g>
+<g class="pin" data-pin="A13" tabindex="0" role="button" aria-label="A13: Coil cyl 1">
+<rect x="291" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="306" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="295" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">13</text>
+</g>
+<g class="pin" data-pin="A14" tabindex="0" role="button" aria-label="A14: Throttle track 1">
+<rect x="333" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="348" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="337" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">14</text>
+</g>
+<g class="pin" data-pin="A15" tabindex="0" role="button" aria-label="A15: Coolant temp">
+<rect x="375" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="390" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="379" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">15</text>
+</g>
+<g class="pin" data-pin="A16" tabindex="0" role="button" aria-label="A16: Pre-throttle temp">
+<rect x="417" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="432" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="421" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">16</text>
+</g>
+<g class="pin" data-pin="A17" tabindex="0" role="button" aria-label="A17: Manifold pressure">
+<rect x="459" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="474" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="463" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">17</text>
+</g>
+<g class="pin" data-pin="A18" tabindex="0" role="button" aria-label="A18: Turbo bypass">
+<rect x="165" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="180" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="169" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">18</text>
+</g>
+<g class="pin" data-pin="A19" tabindex="0" role="button" aria-label="A19: Stock boost valve">
+<rect x="207" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="222" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="211" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">19</text>
+</g>
+<g class="pin" data-pin="A20" tabindex="0" role="button" aria-label="A20: Intake VVT">
+<rect x="249" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="264" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="253" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">20</text>
+</g>
+<g class="pin" data-pin="A21" tabindex="0" role="button" aria-label="A21: Exhaust VVT">
+<rect x="291" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="306" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="295" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">21</text>
+</g>
+<g class="pin" data-pin="A22" tabindex="0" role="button" aria-label="A22: Pedal track 1">
+<rect x="333" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="348" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="337" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">22</text>
+</g>
+<g class="pin" data-pin="A23" tabindex="0" role="button" aria-label="A23: Clutch switch">
+<rect x="375" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="390" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="379" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">23</text>
+</g>
+<g class="pin" data-pin="A24" tabindex="0" role="button" aria-label="A24: Sensor return bus">
+<rect x="417" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="432" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="421" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">24</text>
+</g>
+<g class="pin" data-pin="A25" tabindex="0" role="button" aria-label="A25: Engine star ground">
+<rect x="459" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="474" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="463" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">25</text>
+</g>
+<g class="pin" data-pin="A26" tabindex="0" role="button" aria-label="A26: Powertrain relay">
+<rect x="144" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="159" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="148" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">26</text>
+</g>
+<g class="pin" data-pin="A27" tabindex="0" role="button" aria-label="A27: Meth fail / status">
+<rect x="186" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="201" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="190" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">27</text>
+</g>
+<g class="pin" data-pin="A28" tabindex="0" role="button" aria-label="A28: Fan controller">
+<rect x="228" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="243" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="232" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">28</text>
+</g>
+<g class="pin" data-pin="A29" tabindex="0" role="button" aria-label="A29: Fuel pump relay">
+<rect x="270" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="285" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="274" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">29</text>
+</g>
+<g class="pin" data-pin="A30" tabindex="0" role="button" aria-label="A30: Exhaust cam">
+<rect x="312" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="327" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="316" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">30</text>
+</g>
+<g class="pin" data-pin="A31" tabindex="0" role="button" aria-label="A31: NEW brake input">
+<rect x="354" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="369" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="358" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">31</text>
+</g>
+<g class="pin" data-pin="A32" tabindex="0" role="button" aria-label="A32: 5V bus / TRACE">
+<rect x="396" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="411" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="400" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">32</text>
+</g>
+<g class="pin" data-pin="A33" tabindex="0" role="button" aria-label="A33: Pedal track 2">
+<rect x="438" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="453" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="442" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">33</text>
+</g>
+<g class="pin" data-pin="A34" tabindex="0" role="button" aria-label="A34: Engine star ground">
+<rect x="480" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="495" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="484" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">34</text>
+</g>
+<g class="pin" data-pin="B1" tabindex="0" role="button" aria-label="B1: Future DI cmd 4">
+<rect x="617" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="632" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="627" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">1</text>
+</g>
+<g class="pin" data-pin="B2" tabindex="0" role="button" aria-label="B2: Future DI cmd 3">
+<rect x="659" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="674" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="669" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2</text>
+</g>
+<g class="pin" data-pin="B3" tabindex="0" role="button" aria-label="B3: Future DI cmd 2">
+<rect x="701" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="716" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="711" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">3</text>
+</g>
+<g class="pin" data-pin="B4" tabindex="0" role="button" aria-label="B4: Future DI cmd 1">
+<rect x="743" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="758" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="753" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">4</text>
+</g>
+<g class="pin" data-pin="B5" tabindex="0" role="button" aria-label="B5: NEW HB fused feed">
+<rect x="785" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="800" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="795" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">5</text>
+</g>
+<g class="pin" data-pin="B6" tabindex="0" role="button" aria-label="B6: NEW oil temp">
+<rect x="827" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="842" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="837" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">6</text>
+</g>
+<g class="pin" data-pin="B7" tabindex="0" role="button" aria-label="B7: Alt IAT if retained">
+<rect x="869" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="884" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="879" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">7</text>
+</g>
+<g class="pin" data-pin="B8" tabindex="0" role="button" aria-label="B8: Knock2 pair HOLD">
+<rect x="911" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="926" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="921" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">8</text>
+</g>
+<g class="pin" data-pin="B9" tabindex="0" role="button" aria-label="B9: Knock1 pair HOLD">
+<rect x="953" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="968" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="963" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">9</text>
+</g>
+<g class="pin" data-pin="B10" tabindex="0" role="button" aria-label="B10: MIL if retained">
+<rect x="638" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="653" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="642" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">10</text>
+</g>
+<g class="pin" data-pin="B11" tabindex="0" role="button" aria-label="B11: Vacuum pump relay">
+<rect x="680" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="695" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="684" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">11</text>
+</g>
+<g class="pin" data-pin="B12" tabindex="0" role="button" aria-label="B12: Future HPFP command">
+<rect x="722" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="737" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="726" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">12</text>
+</g>
+<g class="pin" data-pin="B13" tabindex="0" role="button" aria-label="B13: Starter relay HOLD">
+<rect x="764" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="779" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="768" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">13</text>
+</g>
+<g class="pin" data-pin="B14" tabindex="0" role="button" aria-label="B14: Unallocated AN Volt 14">
+<rect x="806" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="821" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="810" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">14</text>
+</g>
+<g class="pin" data-pin="B15" tabindex="0" role="button" aria-label="B15: Pre-throttle press.">
+<rect x="848" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="863" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="852" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">15</text>
+</g>
+<g class="pin" data-pin="B16" tabindex="0" role="button" aria-label="B16: Future DI rail P">
+<rect x="890" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="905" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="894" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">16</text>
+</g>
+<g class="pin" data-pin="B17" tabindex="0" role="button" aria-label="B17: Knock shield drain">
+<rect x="932" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="947" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="936" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">17</text>
+</g>
+<g class="pin" data-pin="B18" tabindex="0" role="button" aria-label="B18: DBW motor lead 1">
+<rect x="638" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="653" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="642" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">18</text>
+</g>
+<g class="pin" data-pin="B19" tabindex="0" role="button" aria-label="B19: Oil warning switch">
+<rect x="680" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="695" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="684" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">19</text>
+</g>
+<g class="pin" data-pin="B20" tabindex="0" role="button" aria-label="B20: Flex frequency HOLD">
+<rect x="722" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="737" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="726" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">20</text>
+</g>
+<g class="pin" data-pin="B21" tabindex="0" role="button" aria-label="B21: Clutch start signal">
+<rect x="764" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="779" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="768" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">21</text>
+</g>
+<g class="pin" data-pin="B22" tabindex="0" role="button" aria-label="B22: Sensor return bus">
+<rect x="806" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="821" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="810" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">22</text>
+</g>
+<g class="pin" data-pin="B23" tabindex="0" role="button" aria-label="B23: Unallocated AN Volt 8">
+<rect x="848" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="863" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="852" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">23</text>
+</g>
+<g class="pin" data-pin="B24" tabindex="0" role="button" aria-label="B24: NEW PI fuel press.">
+<rect x="890" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="905" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="894" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">24</text>
+</g>
+<g class="pin" data-pin="B25" tabindex="0" role="button" aria-label="B25: Engine star ground">
+<rect x="932" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="947" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="936" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">25</text>
+</g>
+<g class="pin" data-pin="B26" tabindex="0" role="button" aria-label="B26: DBW motor lead 2">
+<rect x="617" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="632" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="621" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">26</text>
+</g>
+<g class="pin" data-pin="B27" tabindex="0" role="button" aria-label="B27: Wheel FL / traction">
+<rect x="659" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="674" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="663" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">27</text>
+</g>
+<g class="pin" data-pin="B28" tabindex="0" role="button" aria-label="B28: Wheel FR / traction">
+<rect x="701" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="716" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="705" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">28</text>
+</g>
+<g class="pin" data-pin="B29" tabindex="0" role="button" aria-label="B29: Wheel RL / traction">
+<rect x="743" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="758" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="747" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">29</text>
+</g>
+<g class="pin" data-pin="B30" tabindex="0" role="button" aria-label="B30: Wheel RR / traction">
+<rect x="785" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="800" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="789" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">30</text>
+</g>
+<g class="pin" data-pin="B31" tabindex="0" role="button" aria-label="B31: NEW oil pressure">
+<rect x="827" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="842" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="831" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">31</text>
+</g>
+<g class="pin" data-pin="B32" tabindex="0" role="button" aria-label="B32: Booster vacuum">
+<rect x="869" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="884" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="873" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">32</text>
+</g>
+<g class="pin" data-pin="B33" tabindex="0" role="button" aria-label="B33: Throttle track 2">
+<rect x="911" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="926" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="915" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">33</text>
+</g>
+<g class="pin" data-pin="B34" tabindex="0" role="button" aria-label="B34: Engine star ground">
+<rect x="953" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="968" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="957" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">34</text>
+</g>
+<g class="pin" data-pin="E1" tabindex="0" role="button" aria-label="E1: Unallocated Inj 12">
+<rect x="1090" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1105" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1100" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">1</text>
+</g>
+<g class="pin" data-pin="E2" tabindex="0" role="button" aria-label="E2: Unallocated Inj 11">
+<rect x="1132" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1147" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1142" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">2</text>
+</g>
+<g class="pin" data-pin="E3" tabindex="0" role="button" aria-label="E3: Unallocated Inj 10">
+<rect x="1174" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1189" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1184" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">3</text>
+</g>
+<g class="pin" data-pin="E4" tabindex="0" role="button" aria-label="E4: Unallocated Inj 9">
+<rect x="1216" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1231" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1226" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">4</text>
+</g>
+<g class="pin" data-pin="E5" tabindex="0" role="button" aria-label="E5: GM CAN-H HOLD">
+<rect x="1258" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1273" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1268" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">5</text>
+</g>
+<g class="pin" data-pin="E6" tabindex="0" role="button" aria-label="E6: GM CAN-L HOLD">
+<rect x="1300" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1315" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1310" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">6</text>
+</g>
+<g class="pin" data-pin="E7" tabindex="0" role="button" aria-label="E7: Engine star ground">
+<rect x="1342" y="855" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1357" cy="872" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1352" y="885" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">7</text>
+</g>
+<g class="pin" data-pin="E8" tabindex="0" role="button" aria-label="E8: Purge if retained">
+<rect x="1111" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1126" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1121" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">8</text>
+</g>
+<g class="pin" data-pin="E9" tabindex="0" role="button" aria-label="E9: Vent if retained">
+<rect x="1153" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1168" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1163" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">9</text>
+</g>
+<g class="pin" data-pin="E10" tabindex="0" role="button" aria-label="E10: Unallocated Inj14 / Ign10">
+<rect x="1195" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1210" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1199" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">10</text>
+</g>
+<g class="pin" data-pin="E11" tabindex="0" role="button" aria-label="E11: Meth enable request">
+<rect x="1237" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1252" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1241" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">11</text>
+</g>
+<g class="pin" data-pin="E12" tabindex="0" role="button" aria-label="E12: Fuel level HOLD">
+<rect x="1279" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1294" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1283" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">12</text>
+</g>
+<g class="pin" data-pin="E13" tabindex="0" role="button" aria-label="E13: Meth analog status">
+<rect x="1321" y="898" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1336" cy="915" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1325" y="928" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">13</text>
+</g>
+<g class="pin" data-pin="E14" tabindex="0" role="button" aria-label="E14: Spare HB2 pair">
+<rect x="1111" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1126" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1115" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">14</text>
+</g>
+<g class="pin" data-pin="E15" tabindex="0" role="button" aria-label="E15: WB1 heater reserve">
+<rect x="1153" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1168" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1157" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">15</text>
+</g>
+<g class="pin" data-pin="E16" tabindex="0" role="button" aria-label="E16: WB1 RE reserve">
+<rect x="1195" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1210" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1199" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">16</text>
+</g>
+<g class="pin" data-pin="E17" tabindex="0" role="button" aria-label="E17: WB1 IPE reserve">
+<rect x="1237" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1252" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1241" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">17</text>
+</g>
+<g class="pin" data-pin="E18" tabindex="0" role="button" aria-label="E18: WB1 APE reserve">
+<rect x="1279" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1294" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1283" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">18</text>
+</g>
+<g class="pin" data-pin="E19" tabindex="0" role="button" aria-label="E19: WB1 MES reserve">
+<rect x="1321" y="941" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1336" cy="958" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1325" y="971" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">19</text>
+</g>
+<g class="pin" data-pin="E20" tabindex="0" role="button" aria-label="E20: Spare HB2 pair">
+<rect x="1090" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1105" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1094" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">20</text>
+</g>
+<g class="pin" data-pin="E21" tabindex="0" role="button" aria-label="E21: Engine star ground">
+<rect x="1132" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1147" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1136" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">21</text>
+</g>
+<g class="pin" data-pin="E22" tabindex="0" role="button" aria-label="E22: Spare Aux6 / WB2">
+<rect x="1174" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1189" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1178" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">22</text>
+</g>
+<g class="pin" data-pin="E23" tabindex="0" role="button" aria-label="E23: Unused WB2 dedicated">
+<rect x="1216" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1231" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1220" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">23</text>
+</g>
+<g class="pin" data-pin="E24" tabindex="0" role="button" aria-label="E24: Unused WB2 dedicated">
+<rect x="1258" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1273" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1262" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">24</text>
+</g>
+<g class="pin" data-pin="E25" tabindex="0" role="button" aria-label="E25: Unused WB2 dedicated">
+<rect x="1300" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1315" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1304" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">25</text>
+</g>
+<g class="pin" data-pin="E26" tabindex="0" role="button" aria-label="E26: Unused WB2 dedicated">
+<rect x="1342" y="984" width="30" height="50" rx="2" fill="transparent" stroke="none" stroke-width="1"/>
+<circle cx="1357" cy="1001" r="5" fill="#e2e6eb" stroke="#687783" stroke-width="1"/>
+<text x="1346" y="1014" dominant-baseline="hanging" fill="#c4ccd5" font-family="Arial,sans-serif" font-size="17" font-weight="400">26</text>
+</g>
+</svg>

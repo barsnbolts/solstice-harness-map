@@ -1,0 +1,414 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2840" viewBox="0 0 2400 2840"><title>Link Pro V2 • A / B / E pin atlas</title><desc>Engineering review draft. No actual-car continuity verified.</desc>
+<rect x="0" y="0" width="2400" height="2840" rx="0" fill="#f7f9fb" stroke="none" stroke-width="2"/>
+<rect x="0" y="0" width="2400" height="18" rx="0" fill="#176396" stroke="none" stroke-width="2"/>
+<text x="60" y="55" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#182d3d">Link Pro V2 • A / B / E pin atlas</text>
+<text x="60" y="118" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#4c6477">All 94 cavities • manufacturer functions + project proposals • consult individual sheets for routes and electrical limits</text>
+<rect x="60" y="165" width="2280" height="66" rx="14" fill="#fff1cc" stroke="#e1b55d" stroke-width="2"/>
+<text x="82" y="183" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#805510">ENGINEERING DRAFT R2 • 6 OCT 2026 • NO AS-BUILT OR ENERGIZE-READY CLAIM</text>
+<rect x="60" y="262" width="24" height="24" rx="4" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="94" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#176396">Proposed</text>
+<rect x="410" y="262" width="24" height="24" rx="4" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="444" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#9b6300">Reserved</text>
+<rect x="760" y="262" width="24" height="24" rx="4" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="794" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#a33323">Hold / unresolved</text>
+<rect x="1110" y="262" width="24" height="24" rx="4" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="1144" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#237549">Genuinely spare</text>
+<rect x="1460" y="262" width="24" height="24" rx="4" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1494" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#61458b">Power / ground</text>
+<rect x="1810" y="262" width="24" height="24" rx="4" fill="#edf0f2" stroke="#526573" stroke-width="2"/>
+<text x="1844" y="262" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" fill="#526573">Dedicated only</text>
+<text x="60" y="340" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#182d3d">HEADER A — ECU header view / wire side of loom connector</text>
+<rect x="117.5" y="395" width="2165" height="635" rx="35" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="1155.0" y="358" width="90" height="38" rx="0" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="147.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="158.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A1</text>
+<text x="158.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 4</text>
+<text x="158.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW PI cyl 4</text>
+<rect x="382.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="393.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A2</text>
+<text x="393.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 3</text>
+<text x="393.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW PI cyl 3</text>
+<rect x="617.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="628.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A3</text>
+<text x="628.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 2</text>
+<text x="628.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW PI cyl 2</text>
+<rect x="852.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="863.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A4</text>
+<text x="863.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 1</text>
+<text x="863.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW PI cyl 1</text>
+<rect x="1087.5" y="435" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1098.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">A5</text>
+<text x="1098.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Main VBat</text>
+<text x="1098.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">ECU main supply</text>
+<rect x="1322.5" y="435" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1333.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">A6</text>
+<text x="1333.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign switch</text>
+<text x="1333.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Ignition switch</text>
+<rect x="1557.5" y="435" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1568.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">A7</text>
+<text x="1568.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Trigger shield</text>
+<text x="1568.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Trigger shield drain</text>
+<rect x="1792.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1803.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A8</text>
+<text x="1803.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Trigger 1</text>
+<text x="1803.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Crank signal</text>
+<rect x="2027.5" y="435" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="2038.5" y="445" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A9</text>
+<text x="2038.5" y="482" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Trigger 2</text>
+<text x="2038.5" y="522" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Intake cam</text>
+<rect x="265.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="276.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A10</text>
+<text x="276.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 4</text>
+<text x="276.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Coil cyl 4</text>
+<rect x="500.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="511.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A11</text>
+<text x="511.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 3</text>
+<text x="511.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Coil cyl 3</text>
+<rect x="735.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="746.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A12</text>
+<text x="746.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 2</text>
+<text x="746.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Coil cyl 2</text>
+<rect x="970.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="981.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A13</text>
+<text x="981.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 1</text>
+<text x="981.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Coil cyl 1</text>
+<rect x="1205.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1216.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A14</text>
+<text x="1216.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 4</text>
+<text x="1216.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Throttle track 1</text>
+<rect x="1440.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1451.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A15</text>
+<text x="1451.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Temp 1</text>
+<text x="1451.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Coolant temp</text>
+<rect x="1675.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1686.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A16</text>
+<text x="1686.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Temp 2</text>
+<text x="1686.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Pre-throttle temp</text>
+<rect x="1910.0" y="575" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1921.0" y="585" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A17</text>
+<text x="1921.0" y="622" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 1</text>
+<text x="1921.0" y="662" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Manifold pressure</text>
+<rect x="265.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="276.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A18</text>
+<text x="276.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 4</text>
+<text x="276.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Turbo bypass</text>
+<rect x="500.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="511.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A19</text>
+<text x="511.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 3</text>
+<text x="511.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Stock boost valve</text>
+<rect x="735.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="746.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A20</text>
+<text x="746.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 2</text>
+<text x="746.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Intake VVT</text>
+<rect x="970.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="981.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A21</text>
+<text x="981.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 1</text>
+<text x="981.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Exhaust VVT</text>
+<rect x="1205.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1216.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A22</text>
+<text x="1216.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 2</text>
+<text x="1216.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Pedal track 1</text>
+<rect x="1440.0" y="715" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1451.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A23</text>
+<text x="1451.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 3</text>
+<text x="1451.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Clutch switch</text>
+<rect x="1675.0" y="715" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1686.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">A24</text>
+<text x="1686.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Sensor ground</text>
+<text x="1686.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Sensor return bus</text>
+<rect x="1910.0" y="715" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1921.0" y="725" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">A25</text>
+<text x="1921.0" y="762" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="1921.0" y="802" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<rect x="147.5" y="855" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="158.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A26</text>
+<text x="158.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 8</text>
+<text x="158.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Powertrain relay</text>
+<rect x="382.5" y="855" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="393.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">A27</text>
+<text x="393.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 7</text>
+<text x="393.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Meth fail / status</text>
+<rect x="617.5" y="855" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="628.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A28</text>
+<text x="628.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 6</text>
+<text x="628.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Fan controller</text>
+<rect x="852.5" y="855" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="863.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A29</text>
+<text x="863.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">ADIO 5</text>
+<text x="863.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Fuel pump relay</text>
+<rect x="1087.5" y="855" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1098.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A30</text>
+<text x="1098.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 1</text>
+<text x="1098.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Exhaust cam</text>
+<rect x="1322.5" y="855" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1333.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">A31</text>
+<text x="1333.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 2</text>
+<text x="1333.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW brake input</text>
+<rect x="1557.5" y="855" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1568.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">A32</text>
+<text x="1568.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">5V output</text>
+<text x="1568.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">5V bus / TRACE</text>
+<rect x="1792.5" y="855" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1803.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">A33</text>
+<text x="1803.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 3</text>
+<text x="1803.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Pedal track 2</text>
+<rect x="2027.5" y="855" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="2038.5" y="865" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">A34</text>
+<text x="2038.5" y="902" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="2038.5" y="942" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<text x="60" y="1170" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#182d3d">HEADER B — ECU header view / wire side of loom connector</text>
+<rect x="117.5" y="1225" width="2165" height="635" rx="35" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="1155.0" y="1188" width="90" height="38" rx="0" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="147.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="158.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B1</text>
+<text x="158.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 8</text>
+<text x="158.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future DI cmd 4</text>
+<rect x="382.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="393.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B2</text>
+<text x="393.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 7</text>
+<text x="393.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future DI cmd 3</text>
+<rect x="617.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="628.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B3</text>
+<text x="628.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 6</text>
+<text x="628.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future DI cmd 2</text>
+<rect x="852.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="863.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B4</text>
+<text x="863.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 5</text>
+<text x="863.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future DI cmd 1</text>
+<rect x="1087.5" y="1265" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1098.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">B5</text>
+<text x="1098.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">H-bridge VBat</text>
+<text x="1098.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW HB fused feed</text>
+<rect x="1322.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1333.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B6</text>
+<text x="1333.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Temp 3</text>
+<text x="1333.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW oil temp</text>
+<rect x="1557.5" y="1265" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1568.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B7</text>
+<text x="1568.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Temp 4</text>
+<text x="1568.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Alt IAT if retained</text>
+<rect x="1792.5" y="1265" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1803.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B8</text>
+<text x="1803.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Knock 2</text>
+<text x="1803.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Knock2 pair HOLD</text>
+<rect x="2027.5" y="1265" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="2038.5" y="1275" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B9</text>
+<text x="2038.5" y="1312" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Knock 1</text>
+<text x="2038.5" y="1352" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Knock1 pair HOLD</text>
+<rect x="265.0" y="1405" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="276.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B10</text>
+<text x="276.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 8</text>
+<text x="276.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">MIL if retained</text>
+<rect x="500.0" y="1405" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="511.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B11</text>
+<text x="511.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 7</text>
+<text x="511.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Vacuum pump relay</text>
+<rect x="735.0" y="1405" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="746.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B12</text>
+<text x="746.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 6</text>
+<text x="746.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future HPFP</text>
+<text x="746.0" y="1519" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">command</text>
+<rect x="970.0" y="1405" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="981.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B13</text>
+<text x="981.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Ign 5</text>
+<text x="981.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Starter relay HOLD</text>
+<rect x="1205.0" y="1405" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="1216.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">B14</text>
+<text x="1216.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 14</text>
+<text x="1216.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated AN Volt</text>
+<text x="1216.0" y="1519" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">14</text>
+<rect x="1440.0" y="1405" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1451.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">B15</text>
+<text x="1451.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 6</text>
+<text x="1451.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Pre-throttle press.</text>
+<rect x="1675.0" y="1405" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1686.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B16</text>
+<text x="1686.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 7</text>
+<text x="1686.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Future DI rail P</text>
+<rect x="1910.0" y="1405" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1921.0" y="1415" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">B17</text>
+<text x="1921.0" y="1452" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Knock shield</text>
+<text x="1921.0" y="1492" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Knock shield drain</text>
+<rect x="265.0" y="1545" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="276.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B18</text>
+<text x="276.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 1 / HB1+</text>
+<text x="276.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">DBW motor lead 1</text>
+<rect x="500.0" y="1545" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="511.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">B19</text>
+<text x="511.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 6 / K-Line 2</text>
+<text x="511.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Oil warning switch</text>
+<rect x="735.0" y="1545" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="746.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B20</text>
+<text x="746.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 5 / K-Line 1</text>
+<text x="746.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Flex frequency HOLD</text>
+<rect x="970.0" y="1545" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="981.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">B21</text>
+<text x="981.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 4</text>
+<text x="981.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Clutch start signal</text>
+<rect x="1205.0" y="1545" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1216.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">B22</text>
+<text x="1216.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Sensor ground</text>
+<text x="1216.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Sensor return bus</text>
+<rect x="1440.0" y="1545" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="1451.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">B23</text>
+<text x="1451.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 8</text>
+<text x="1451.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated AN Volt 8</text>
+<rect x="1675.0" y="1545" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1686.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B24</text>
+<text x="1686.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 9</text>
+<text x="1686.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW PI fuel press.</text>
+<rect x="1910.0" y="1545" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1921.0" y="1555" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">B25</text>
+<text x="1921.0" y="1592" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="1921.0" y="1632" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<rect x="147.5" y="1685" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="158.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B26</text>
+<text x="158.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 2 / HB1-</text>
+<text x="158.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">DBW motor lead 2</text>
+<rect x="382.5" y="1685" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="393.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B27</text>
+<text x="393.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 10</text>
+<text x="393.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Wheel FL / traction</text>
+<rect x="617.5" y="1685" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="628.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B28</text>
+<text x="628.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 9</text>
+<text x="628.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Wheel FR / traction</text>
+<rect x="852.5" y="1685" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="863.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B29</text>
+<text x="863.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 8</text>
+<text x="863.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Wheel RL / traction</text>
+<rect x="1087.5" y="1685" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1098.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B30</text>
+<text x="1098.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">DI 7</text>
+<text x="1098.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Wheel RR / traction</text>
+<rect x="1322.5" y="1685" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1333.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">B31</text>
+<text x="1333.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 10</text>
+<text x="1333.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">NEW oil pressure</text>
+<rect x="1557.5" y="1685" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1568.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">B32</text>
+<text x="1568.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 11</text>
+<text x="1568.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Booster vacuum</text>
+<rect x="1792.5" y="1685" width="225" height="130" rx="9" fill="#e4f1fc" stroke="#176396" stroke-width="2"/>
+<text x="1803.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#176396">B33</text>
+<text x="1803.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 5</text>
+<text x="1803.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Throttle track 2</text>
+<rect x="2027.5" y="1685" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="2038.5" y="1695" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">B34</text>
+<text x="2038.5" y="1732" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="2038.5" y="1772" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<text x="60" y="2000" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#182d3d">HEADER E — ECU header view / wire side of loom connector</text>
+<rect x="352.5" y="2055" width="1695" height="635" rx="35" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="1155.0" y="2018" width="90" height="38" rx="0" fill="white" stroke="#182d3d" stroke-width="3"/>
+<rect x="382.5" y="2095" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="393.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E1</text>
+<text x="393.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 12</text>
+<text x="393.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated Inj 12</text>
+<rect x="617.5" y="2095" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="628.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E2</text>
+<text x="628.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 11</text>
+<text x="628.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated Inj 11</text>
+<rect x="852.5" y="2095" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="863.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E3</text>
+<text x="863.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 10</text>
+<text x="863.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated Inj 10</text>
+<rect x="1087.5" y="2095" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="1098.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E4</text>
+<text x="1098.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj 9</text>
+<text x="1098.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated Inj 9</text>
+<rect x="1322.5" y="2095" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1333.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">E5</text>
+<text x="1333.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">CAN2 high</text>
+<text x="1333.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">GM CAN-H HOLD</text>
+<rect x="1557.5" y="2095" width="225" height="130" rx="9" fill="#ffe4df" stroke="#a33323" stroke-width="2"/>
+<text x="1568.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#a33323">E6</text>
+<text x="1568.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">CAN2 low</text>
+<text x="1568.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">GM CAN-L HOLD</text>
+<rect x="1792.5" y="2095" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="1803.5" y="2105" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">E7</text>
+<text x="1803.5" y="2142" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="1803.5" y="2182" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<rect x="500.0" y="2235" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="511.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E8</text>
+<text x="511.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj16 / Ign12</text>
+<text x="511.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Purge if retained</text>
+<rect x="735.0" y="2235" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="746.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E9</text>
+<text x="746.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj15 / Ign11</text>
+<text x="746.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Vent if retained</text>
+<rect x="970.0" y="2235" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="981.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E10</text>
+<text x="981.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj14 / Ign10</text>
+<text x="981.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unallocated Inj14 /</text>
+<text x="981.0" y="2349" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Ign10</text>
+<rect x="1205.0" y="2235" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1216.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E11</text>
+<text x="1216.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Inj13 / Ign9</text>
+<text x="1216.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Meth enable request</text>
+<rect x="1440.0" y="2235" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1451.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E12</text>
+<text x="1451.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 12</text>
+<text x="1451.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Fuel level HOLD</text>
+<rect x="1675.0" y="2235" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1686.0" y="2245" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E13</text>
+<text x="1686.0" y="2282" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">AN Volt 13</text>
+<text x="1686.0" y="2322" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Meth analog status</text>
+<rect x="500.0" y="2375" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="511.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E14</text>
+<text x="511.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 3 / HB2+</text>
+<text x="511.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Spare HB2 pair</text>
+<rect x="735.0" y="2375" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="746.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E15</text>
+<text x="746.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 5 / WB1 heat</text>
+<text x="746.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">WB1 heater reserve</text>
+<rect x="970.0" y="2375" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="981.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E16</text>
+<text x="981.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB1 RE</text>
+<text x="981.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">WB1 RE reserve</text>
+<rect x="1205.0" y="2375" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1216.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E17</text>
+<text x="1216.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB1 IPE</text>
+<text x="1216.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">WB1 IPE reserve</text>
+<rect x="1440.0" y="2375" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1451.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E18</text>
+<text x="1451.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB1 APE</text>
+<text x="1451.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">WB1 APE reserve</text>
+<rect x="1675.0" y="2375" width="225" height="130" rx="9" fill="#fff1cc" stroke="#9b6300" stroke-width="2"/>
+<text x="1686.0" y="2385" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#9b6300">E19</text>
+<text x="1686.0" y="2422" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB1 MES</text>
+<text x="1686.0" y="2462" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">WB1 MES reserve</text>
+<rect x="382.5" y="2515" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="393.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E20</text>
+<text x="393.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 4 / HB2-</text>
+<text x="393.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Spare HB2 pair</text>
+<rect x="617.5" y="2515" width="225" height="130" rx="9" fill="#eee9fa" stroke="#61458b" stroke-width="2"/>
+<text x="628.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#61458b">E21</text>
+<text x="628.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Power ground</text>
+<text x="628.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Engine star ground</text>
+<rect x="852.5" y="2515" width="225" height="130" rx="9" fill="#e4f4eb" stroke="#237549" stroke-width="2"/>
+<text x="863.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#237549">E22</text>
+<text x="863.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">Aux 6 / WB2 heat</text>
+<text x="863.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Spare Aux6 / WB2</text>
+<rect x="1087.5" y="2515" width="225" height="130" rx="9" fill="#edf0f2" stroke="#526573" stroke-width="2"/>
+<text x="1098.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#526573">E23</text>
+<text x="1098.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB2 RE</text>
+<text x="1098.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unused WB2</text>
+<text x="1098.5" y="2629" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">dedicated</text>
+<rect x="1322.5" y="2515" width="225" height="130" rx="9" fill="#edf0f2" stroke="#526573" stroke-width="2"/>
+<text x="1333.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#526573">E24</text>
+<text x="1333.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB2 IPE</text>
+<text x="1333.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unused WB2</text>
+<text x="1333.5" y="2629" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">dedicated</text>
+<rect x="1557.5" y="2515" width="225" height="130" rx="9" fill="#edf0f2" stroke="#526573" stroke-width="2"/>
+<text x="1568.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#526573">E25</text>
+<text x="1568.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB2 APE</text>
+<text x="1568.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unused WB2</text>
+<text x="1568.5" y="2629" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">dedicated</text>
+<rect x="1792.5" y="2515" width="225" height="130" rx="9" fill="#edf0f2" stroke="#526573" stroke-width="2"/>
+<text x="1803.5" y="2525" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#526573">E26</text>
+<text x="1803.5" y="2562" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#182d3d">WB2 MES</text>
+<text x="1803.5" y="2602" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">Unused WB2</text>
+<text x="1803.5" y="2629" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#182d3d">dedicated</text>
+<polyline points="60,2765 2340,2765" fill="none" stroke="#cad5df" stroke-width="2"/>
+<text x="60" y="2785" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#4c6477">Detached loom mating face is mirrored. All new/retained wiring requires actual continuity, load and configuration checks.</text>
+</svg>
