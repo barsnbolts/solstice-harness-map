@@ -12,3 +12,5 @@ Interactive engineering review draft. All 154 OEM and 94 Link cavities are visib
 Exterior shapes and spacing are schematic. The manufacturer connector view looks into ECU headers; a detached loom mating face is mirrored. See the capability atlas and CSV/JSON allocations for electrical limits and unresolved checks.
 
 Static HTML/SVG; no external scripts, telemetry, remote fonts or vehicle connection. Publish the root of `main` through GitHub Pages.
+
+R6 interaction update: paired magnified cavity insets, labelled new branches, circuit-name search, clickable route targets, roving arrow-key contact navigation, structured electrical/evidence/checks inspector, short cancellable hover transitions, reduced-motion support. Linkage highlights do not represent measured electrical direction. No electrical allocations changed.
